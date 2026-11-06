@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-High-voltage digital substation architecture designed in strict compliance with international engineering standards **IEC** and **EGAT**. This project covers a comprehensive configuration of 5 primary bays built for high-capacity power distribution, operational safety, and advanced protection interlocks. 
+High-voltage digital substation architecture designed in strict compliance with international engineering standards **IEC**. This project covers a comprehensive configuration of 5 primary bays built for high-capacity power distribution, operational safety, and advanced protection interlocks. 
 
 The architecture is engineered for **GIS (Gas Insulated Switchgear)** technology (configured for indoor installation), utilizing SF6 gas insulation to achieve a compact footprint, high reliability, and enhanced safety against environmental pollution compared to conventional **AIS (Air Insulated Switchgear)** outdoor systems.
 
