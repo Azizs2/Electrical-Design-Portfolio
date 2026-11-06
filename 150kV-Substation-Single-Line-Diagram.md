@@ -7,7 +7,7 @@ High-voltage digital substation architecture designed in strict compliance with 
 
 ## 🖼️ Technical Diagram Preview
 
-![150kV Substation SLD](Images/SLD_150kV_Preview.png)
+![150kV Substation SLD](Images/PUT-150-GIS-E-ED-001.jpg.png)
 
 > **Note:** The above diagram illustrates the primary circuit configuration, switching equipment, and core CT/VT parameter mapping for the 150kV substation bay arrangement.
 
